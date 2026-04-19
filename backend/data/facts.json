@@ -1,0 +1,37 @@
+{
+  "full_name": "Bright Ofosu Adams",
+  "name": "Bread9f",
+  "current_role": "Software Engineer",
+  "location": "Accra, Ghana",
+  "email": "brightadams58@gmail.com",
+  "linkedin": "linkedin.com/in/brightadams",
+  "specialties": [
+    "ReactJS",
+    "React Native",
+    "Cloud (AWS, Azure)",
+    "Data Science",
+    "AI/ML",
+    "Agile Methodologies",
+    "Project Management",
+    "DevOps"
+    
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Master of Digital Innovation (Data Science)",
+      "institution": "Dalhousie University",
+      "year": "2025"
+    },
+    {
+      "degree": "MBA Management Information Systems",
+      "institution": "University of Ghana Business School",
+      "year": "2023"
+    },
+    {
+      "degree": "Bsc Business Administration (Banking and Finance",
+      "institution": "University of Ghana Business School",
+      "year": "2019"
+    }
+  ]
+}
